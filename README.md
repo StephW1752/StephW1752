@@ -18,7 +18,7 @@
 ### 👩‍💻: About Me :
 I'm learning Data Science 
 - 💻: I'm learning to code in python.
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611delsni9299ieffr1ckpdugvezid7dw2voifzp75e&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=790b7611delsni9299ieffr1ckpdugvezid7dw2voifzp75e&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
@@ -26,9 +26,9 @@ I'm learning Data Science
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src"https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src"https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src"https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src"https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src"https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src"https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src"https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src"https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src"https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src"https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
 </div>
